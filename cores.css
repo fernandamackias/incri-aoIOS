@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ff00aa;
+   
+}
+h2{
+    text-align: center;
+    background-color: #aaff00;
+    font-size: 300%;
+}
+h3{
+    text-align:center;
+    font-size: 300%;
+    background-color: #ff00aa;
+    
+}
+
+
+body{
+    background-color: #00aaff;
+}
+ table{
+    border-color: #aaff00;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    width: 40%;
+    height: 40%;
+    font-size: larger;
+    font-size: 25px;
+    
+ }
+ img{
+    width: 50%;
+    justify-content: center;
+    border: solid #aaff00 ;
+    
+
+    
+ }
+ form{
+ background-color: #aaff00;
+ width: 400px;
+ 
+ }
